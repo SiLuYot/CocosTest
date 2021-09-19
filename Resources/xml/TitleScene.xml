@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root name="TitleScene">
+  <ElementType_0
+    path="image/background_1.jpg"
+    pos_ratio_x="0.5"
+    pos_ratio_y="0.5"
+    anchor_x="0.5"
+    anchor_y="0.5"
+    opacity="255"
+    screen_fit ="1">
+  </ElementType_0>
+
+  <ElementType_0
+    path="image/logo.png"
+    pos_ratio_x="0.5"
+    pos_ratio_y="0.5"
+    anchor_x="0.5"
+    anchor_y="0.3"
+    opacity="100"
+    screen_fit ="0">
+  </ElementType_0>
+
+  <ElementType_1
+    path="fonts/Marker Felt.ttf"
+    pos_ratio_x="0.5"
+    pos_ratio_y="0.2"
+    anchor_x="0.5"
+    anchor_y="0.9"
+    opacity="100"
+    content="Touch to Start"
+    fontSize="48"
+    outlineSize="1">
+  </ElementType_1>
+</root>

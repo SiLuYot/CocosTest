@@ -41,6 +41,7 @@ AppPackages
 BundleArtifacts
 .vs/
 *.VC.db
+**/*.vcxproj
 
 # Ignore files build by ndk and eclipse
 /libs/
@@ -49,6 +50,7 @@ obj/
 gen/
 assets/
 local.properties
+out
 
 # Ignore python compiled files
 *.pyc

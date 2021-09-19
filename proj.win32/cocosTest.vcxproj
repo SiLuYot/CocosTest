@@ -86,7 +86,7 @@
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
-      <AdditionalIncludeDirectories>D:\all\github\cocos2d\cocosTest\Classes;D:\all\github\cocos2d\cocosTest\cocos2d\cocos\audio\include;D:\all\github\cocos2d\cocosTest\cocos2d;D:\all\github\cocos2d\cocosTest\cocos2d\cocos;D:\all\github\cocos2d\cocosTest\cocos2d\extensions;D:\all\github\cocos2d\cocosTest\cocos2d\cocos\platform;D:\all\github\cocos2d\cocosTest\cocos2d\cocos\editor-support;D:\all\github\cocos2d\cocosTest\cocos2d\cocos\base;D:\all\github\cocos2d\cocosTest\cocos2d\cocos\platform\win32;D:\all\github\cocos2d\cocosTest\cocos2d\external\recast\..;D:\all\github\cocos2d\cocosTest\cocos2d\external\tinyxml2\.;D:\all\github\cocos2d\cocosTest\cocos2d\external\xxhash\.;D:\all\github\cocos2d\cocosTest\cocos2d\external\xxtea\.;D:\all\github\cocos2d\cocosTest\cocos2d\external\clipper\.;D:\all\github\cocos2d\cocosTest\cocos2d\external\edtaa3func\.;D:\all\github\cocos2d\cocosTest\cocos2d\external\ConvertUTF\.;D:\all\github\cocos2d\cocosTest\cocos2d\external\poly2tri\..;D:\all\github\cocos2d\cocosTest\cocos2d\external\md5\..;D:\all\github\cocos2d\cocosTest\cocos2d\external\unzip\.;D:\all\github\cocos2d\cocosTest\cocos2d\external\Box2D\include;D:\all\github\cocos2d\cocosTest\cocos2d\external\chipmunk\include;D:\all\github\cocos2d\cocosTest\cocos2d\external\freetype2\include\win32\freetype2;D:\all\github\cocos2d\cocosTest\cocos2d\external\bullet\include;D:\all\github\cocos2d\cocosTest\cocos2d\external\bullet\include\bullet;D:\all\github\cocos2d\cocosTest\cocos2d\external\jpeg\include\win32;D:\all\github\cocos2d\cocosTest\cocos2d\external\openssl\include\win32;D:\all\github\cocos2d\cocosTest\cocos2d\external\uv\include;D:\all\github\cocos2d\cocosTest\cocos2d\external\webp\include\win32;D:\all\github\cocos2d\cocosTest\cocos2d\external\websockets\include\win32;D:\all\github\cocos2d\cocosTest\cocos2d\external\curl\include\win32;D:\all\github\cocos2d\cocosTest\cocos2d\external\png\include\win32;D:\all\github\cocos2d\cocosTest\cocos2d\external\win32-specific\gles\include\OGLES;D:\all\github\cocos2d\cocosTest\cocos2d\external\win32-specific\icon\include;D:\all\github\cocos2d\cocosTest\cocos2d\external\win32-specific\MP3Decoder\include;D:\all\github\cocos2d\cocosTest\cocos2d\external\win32-specific\OggDecoder\include;D:\all\github\cocos2d\cocosTest\cocos2d\external\win32-specific\OpenalSoft\include;D:\all\github\cocos2d\cocosTest\cocos2d\external\glfw3\include\win32;D:\all\github\cocos2d\cocosTest\cocos2d\external\zlib\..\win32-specific\zlib\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\all\github\cocos2d\cocosTest\Classes;D:\all\github\cocos2d\cocosTest\cocos2d\cocos\audio\include;D:\all\github\cocos2d\cocosTest\cocos2d;D:\all\github\cocos2d\cocosTest\cocos2d\cocos;D:\all\github\cocos2d\cocosTest\cocos2d\extensions;D:\all\github\cocos2d\cocosTest\cocos2d\cocos\platform;D:\all\github\cocos2d\cocosTest\cocos2d\cocos\editor-support;D:\all\github\cocos2d\cocosTest\cocos2d\cocos\base;D:\all\github\cocos2d\cocosTest\cocos2d\cocos\platform\win32;D:\all\github\cocos2d\cocosTest\cocos2d\external\recast\..;D:\all\github\cocos2d\cocosTest\cocos2d\external\tinyxml2\.;D:\all\github\cocos2d\cocosTest\cocos2d\external\xxhash\.;D:\all\github\cocos2d\cocosTest\cocos2d\external\xxtea\.;D:\all\github\cocos2d\cocosTest\cocos2d\external\clipper\.;D:\all\github\cocos2d\cocosTest\cocos2d\external\edtaa3func\.;D:\all\github\cocos2d\cocosTest\cocos2d\external\ConvertUTF\.;D:\all\github\cocos2d\cocosTest\cocos2d\external\poly2tri\..;D:\all\github\cocos2d\cocosTest\cocos2d\external\md5\..;D:\all\github\cocos2d\cocosTest\cocos2d\external\unzip\.;D:\all\github\cocos2d\cocosTest\cocos2d\external\Box2D\include;D:\all\github\cocos2d\cocosTest\cocos2d\external\chipmunk\include;D:\all\github\cocos2d\cocosTest\cocos2d\external\freetype2\include\win32\freetype2;D:\all\github\cocos2d\cocosTest\cocos2d\external\bullet\include;D:\all\github\cocos2d\cocosTest\cocos2d\external\bullet\include\bullet;D:\all\github\cocos2d\cocosTest\cocos2d\external\jpeg\include\win32;D:\all\github\cocos2d\cocosTest\cocos2d\external\openssl\include\win32;D:\all\github\cocos2d\cocosTest\cocos2d\external\uv\include;D:\all\github\cocos2d\cocosTest\cocos2d\external\webp\include\win32;D:\all\github\cocos2d\cocosTest\cocos2d\external\websockets\include\win32;D:\all\github\cocos2d\cocosTest\cocos2d\external\curl\include\win32;D:\all\github\cocos2d\cocosTest\cocos2d\external\png\include\win32;D:\all\github\cocos2d\cocosTest\cocos2d\external\win32-specific\gles\include\OGLES;D:\all\github\cocos2d\cocosTest\cocos2d\external\win32-specific\icon\include;D:\all\github\cocos2d\cocosTest\cocos2d\external\win32-specific\MP3Decoder\include;D:\all\github\cocos2d\cocosTest\cocos2d\external\win32-specific\OggDecoder\include;D:\all\github\cocos2d\cocosTest\cocos2d\external\win32-specific\OpenalSoft\include;D:\all\github\cocos2d\cocosTest\cocos2d\external\glfw3\include\win32;D:\all\github\cocos2d\cocosTest\cocos2d\external\zlib\..\win32-specific\zlib\include;D:\all\github\cocos2d\cocosTest\rapidxml-1.13;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
       <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
@@ -115,7 +115,8 @@
       <ProxyFileName>%(Filename)_p.c</ProxyFileName>
     </Midl>
     <PostBuildEvent>
-      <Message>												</Message>
+      <Message>
+      </Message>
       <Command>setlocal
 "C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different D:/all/github/cocos2d/cocosTest/cocos2d/external/openssl/prebuilt/win32/libssl-1_1.dll D:/all/github/cocos2d/cocosTest/proj.win32/bin/cocosTest/Debug/libssl-1_1.dll
 if %errorlevel% neq 0 goto :cmEnd
@@ -279,7 +280,8 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ProxyFileName>%(Filename)_p.c</ProxyFileName>
     </Midl>
     <PostBuildEvent>
-      <Message>												</Message>
+      <Message>
+      </Message>
       <Command>setlocal
 "C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different D:/all/github/cocos2d/cocosTest/cocos2d/external/openssl/prebuilt/win32/libssl-1_1.dll D:/all/github/cocos2d/cocosTest/proj.win32/bin/cocosTest/Release/libssl-1_1.dll
 if %errorlevel% neq 0 goto :cmEnd
@@ -443,7 +445,8 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ProxyFileName>%(Filename)_p.c</ProxyFileName>
     </Midl>
     <PostBuildEvent>
-      <Message>												</Message>
+      <Message>
+      </Message>
       <Command>setlocal
 "C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different D:/all/github/cocos2d/cocosTest/cocos2d/external/openssl/prebuilt/win32/libssl-1_1.dll D:/all/github/cocos2d/cocosTest/proj.win32/bin/cocosTest/MinSizeRel/libssl-1_1.dll
 if %errorlevel% neq 0 goto :cmEnd
@@ -606,7 +609,8 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ProxyFileName>%(Filename)_p.c</ProxyFileName>
     </Midl>
     <PostBuildEvent>
-      <Message>												</Message>
+      <Message>
+      </Message>
       <Command>setlocal
 "C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different D:/all/github/cocos2d/cocosTest/cocos2d/external/openssl/prebuilt/win32/libssl-1_1.dll D:/all/github/cocos2d/cocosTest/proj.win32/bin/cocosTest/RelWithDebInfo/libssl-1_1.dll
 if %errorlevel% neq 0 goto :cmEnd
@@ -796,10 +800,21 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\Classes\SingletonClass.hpp" />
+    <ClInclude Include="..\Classes\TitleScene.hpp" />
+    <ClInclude Include="..\Classes\UIBaseData.hpp" />
+    <ClInclude Include="..\Classes\UIElementData.h" />
+    <ClInclude Include="..\Classes\UILabelData.hpp" />
+    <ClInclude Include="..\Classes\UIManager.h" />
+    <ClInclude Include="..\Classes\UISpriteData.hpp" />
+    <ClInclude Include="..\Classes\XmlManager.h" />
     <ClInclude Include="D:\all\github\cocos2d\cocosTest\Classes\AppDelegate.h" />
     <ClInclude Include="D:\all\github\cocos2d\cocosTest\Classes\HelloWorldScene.h" />
     <ClInclude Include="D:\all\github\cocos2d\cocosTest\proj.win32\main.h" />
     <ClInclude Include="D:\all\github\cocos2d\cocosTest\proj.win32\resource.h" />
+    <ClCompile Include="..\Classes\UIElementData.cpp" />
+    <ClCompile Include="..\Classes\UIManager.cpp" />
+    <ClCompile Include="..\Classes\XmlManager.cpp" />
     <ClCompile Include="D:\all\github\cocos2d\cocosTest\Classes\AppDelegate.cpp" />
     <ClCompile Include="D:\all\github\cocos2d\cocosTest\Classes\HelloWorldScene.cpp" />
     <ClCompile Include="D:\all\github\cocos2d\cocosTest\proj.win32\main.cpp" />
@@ -873,6 +888,13 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{1F145B11-4369-3387-B2B8-C33B7BD83832}</Project>
       <Name>external</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\Resources\image\background_1.jpg" />
+    <Image Include="..\Resources\image\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="..\Resources\xml\TitleScene.xml" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

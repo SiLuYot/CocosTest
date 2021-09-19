@@ -13,6 +13,15 @@
     <ClCompile Include="D:\all\github\cocos2d\cocosTest\cocos2d\cocos\precheader.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\Classes\UIManager.cpp">
+      <Filter>Source Files\Classes\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\UIElementData.cpp">
+      <Filter>Source Files\Classes\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\XmlManager.cpp">
+      <Filter>Source Files\Classes\Manager</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="D:\all\github\cocos2d\cocosTest\Classes\AppDelegate.h">
@@ -45,6 +54,30 @@
     <ClInclude Include="D:\all\github\cocos2d\cocosTest\Resources\res\.gitkeep">
       <Filter>Resources\res</Filter>
     </ClInclude>
+    <ClInclude Include="..\Classes\UIBaseData.hpp">
+      <Filter>Source Files\Classes\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TitleScene.hpp">
+      <Filter>Source Files\Classes\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\UILabelData.hpp">
+      <Filter>Source Files\Classes\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\UISpriteData.hpp">
+      <Filter>Source Files\Classes\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\UIManager.h">
+      <Filter>Source Files\Classes\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\UIElementData.h">
+      <Filter>Source Files\Classes\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\XmlManager.h">
+      <Filter>Source Files\Classes\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SingletonClass.hpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="D:\all\github\cocos2d\cocosTest\CMakeLists.txt" />
@@ -73,5 +106,33 @@
     <Filter Include="Source Files\proj.win32">
       <UniqueIdentifier>{40121C4A-46AD-35E1-8392-2251917DDA53}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Resources\image">
+      <UniqueIdentifier>{44a1fd38-ab5b-4bc2-8aba-8977af076515}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\xml">
+      <UniqueIdentifier>{238f84c7-9ca3-4e1d-8415-a52e12d70f43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\UI">
+      <UniqueIdentifier>{c8b15099-1316-4a70-9409-205dab652ba2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\Manager">
+      <UniqueIdentifier>{cec03e42-a82e-458b-9418-e091a9b29ca8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\Scene">
+      <UniqueIdentifier>{4de91554-ab43-4362-ac63-cfb72da3dab8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\Resources\image\background_1.jpg">
+      <Filter>Resources\image</Filter>
+    </Image>
+    <Image Include="..\Resources\image\logo.png">
+      <Filter>Resources\image</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="..\Resources\xml\TitleScene.xml">
+      <Filter>Resources\xml</Filter>
+    </Xml>
   </ItemGroup>
 </Project>
